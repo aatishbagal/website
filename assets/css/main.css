@@ -1808,7 +1808,7 @@ input, select, textarea {
         height: 100vh;
     }
 
-    60% {
+    35% {
         height: 0vh;
     }
 
@@ -1821,3 +1821,4 @@ input, select, textarea {
         height: 0%;
     }
 }
+

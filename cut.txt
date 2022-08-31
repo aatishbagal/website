@@ -1,0 +1,28 @@
+
+	<body>		<!-- Wrapper -->
+		<div id="wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<div class="content">
+						<div class="inner">
+							<h1>NoScopeFTW | Aatish</h1>
+						</div>
+					</div>
+					<nav>
+						<ul>
+							<li><a href="https://www.instagram.com/_aatish.2807_/"target="_blank">Instagram</a></li>
+							<li><a href="https://www.youtube.com/channel/UCAXKprAvQ_VIrzw318-mQ9A"target="_blank">YouTube</a></li>
+							<li><a href="https://dsc.gg/noscopeftw"target="_blank">Discord</a></li>
+							<li><a href="https://twitter.com/Aatish2807_"target="_blank">Twitter</a></li>
+							<!--<li><a href="#elements">Elements</a></li>-->
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<p class="copyright"></p>
+				</footer>
+		</div>
+	</body>
