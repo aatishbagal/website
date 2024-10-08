@@ -1,2 +1,1 @@
-Final Results on - 
-noscopeftw.aatish.net
+# Final Website - https://noscopeftw.aatish.net
